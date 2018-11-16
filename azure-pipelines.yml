@@ -8,5 +8,5 @@ pool:
 
 steps:
 - script: |
-    make
-  displayName: 'make'
+    cmake
+  displayName: 'cmake'

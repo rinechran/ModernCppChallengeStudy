@@ -10,20 +10,10 @@ set(CMAKE_INSTALL_PREFIX    ${CMAKE_SOURCE_DIR}/Solved)
 include(GetModules)
 
 # Ch.1 
-add_subdirectory(Math/Problem1)
-add_subdirectory(Math/Problem2)
-add_subdirectory(Math/Problem3)
-add_subdirectory(Math/Problem4)
-add_subdirectory(Math/Problem5)
-add_subdirectory(Math/Problem6)
-add_subdirectory(Math/Problem7)
-add_subdirectory(Math/Problem8)
-add_subdirectory(Math/Problem9)
-add_subdirectory(Math/Problem10)
-add_subdirectory(Math/Problem11)
-add_subdirectory(Math/Problem12)
-add_subdirectory(Math/Problem13)
-add_subdirectory(Math/Problem14)
+add_subdirectory(DateTime/Problem39)
+add_subdirectory(DateTime/Problem40)
+add_subdirectory(DateTime/Problem41)
+
 
 # add_subdirectory(Language)      # Ch.2
 # add_subdirectory(Regex)         # Ch.3

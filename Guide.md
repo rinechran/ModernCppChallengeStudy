@@ -1,12 +1,11 @@
-## Note
+﻿## Note
 
  - 외부 라이브러리를 git submodule을 사용해 가져오는 경우,   
    [External](./External) 디렉터리 밑에 배치해주시면 됩니다
  - 이미 빌드 된 형태로 가져와서 사용하는 경우,   
    [External/include](./External)와 [External/lib](./External)에 배치해주시면 됩니다
 
-## How To
-
+## How To a
 ### Build
 
 과정은 크게 두 단계로, 준비(setup) 단계와 빌드(build) 단계로 구분됩니다. 준비하시고, 쏘세요! (?)
